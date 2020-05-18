@@ -28,6 +28,7 @@ return [
         'oh_dear_uptime' => [
             'refresh_interval_in_seconds' => 5,
         ],
+    ],
 ];
 ```
 
